@@ -1,5 +1,4 @@
 <?php
-
 use App\Chapter;
 use App\ReadChapter;
 use App\User;
